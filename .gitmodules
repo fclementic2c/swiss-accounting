@@ -1,0 +1,4 @@
+[submodule "OCA/l10n-switzerland"]
+	path = OCA/l10n-switzerland
+	url = git@github.com:OCA/l10n-switzerland.git
+	branch = 13.0
