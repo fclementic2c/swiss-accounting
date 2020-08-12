@@ -6,11 +6,11 @@
 [submodule "OCA/partner-contact"]
 	path = OCA/partner-contact
 	url = git@github.com:OCA/partner-contact.git
-	branch = 13.0
+	branch = 13.0-mig-account_invoice_import
 
 [submodule "OCA/edi"]
 	path = OCA/edi
-	url = git@github.com:OCA/edi.git
+	url = git@github.com:yvaucher/edi.git
 	branch = 13.0
 
 [submodule "OCA/community-data-files"]
