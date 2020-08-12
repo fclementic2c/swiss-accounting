@@ -1,0 +1,2 @@
+[run]
+omit = /odoo/src/addons/l10n_ch/tests/*
