@@ -1,17 +1,17 @@
 [submodule "OCA/l10n-switzerland"]
 	path = OCA/l10n-switzerland
-	url = git@github.com:OCA/l10n-switzerland.git
-	branch = 13.0
+	url = git@github.com:yvaucher/l10n-switzerland.git
+	branch = 13.0-add-l10n_ch_qr_bill_scan
 
 [submodule "OCA/partner-contact"]
 	path = OCA/partner-contact
 	url = git@github.com:OCA/partner-contact.git
-	branch = 13.0-mig-account_invoice_import
+	branch = 13.0
 
 [submodule "OCA/edi"]
 	path = OCA/edi
 	url = git@github.com:yvaucher/edi.git
-	branch = 13.0
+	branch = 13.0-mig-account_invoice_import
 
 [submodule "OCA/community-data-files"]
 	path = OCA/community-data-files
