@@ -1,7 +1,7 @@
 [submodule "OCA/l10n-switzerland"]
 	path = OCA/l10n-switzerland
 	url = git@github.com:yvaucher/l10n-switzerland.git
-	branch = 13.0-add-l10n_ch_qr_bill_scan
+	branch = 13.0-pending-merges
 
 [submodule "OCA/partner-contact"]
 	path = OCA/partner-contact
