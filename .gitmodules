@@ -22,3 +22,8 @@
 	path = OCA/server-tools
 	url = git@github.com:OCA/server-tools.git
 	branch = 13.0
+
+[submodule "camptocamp/odoo-enterprise-addons"]
+	path = camptocamp/odoo-enterprise-addons
+	url = git@github.com:camptocamp/odoo-enterprise-addons.git
+	branch = 13.0
